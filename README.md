@@ -10,4 +10,4 @@
 
 **Q3.** All of this information seems to be about static visualizations. What about 3D & interactive visualizations?
 
-**A3.** I'm still looking into where the state-of-the-art is with this type of research. I would recommend "Readings in information visualization : using vision to think" for further information.
+**A3.** I'm still looking into where the state-of-the-art is with this type of research. I would recommend "Readings in information visualization : using vision to think" for further information. I like UW's Interactive Data Lab website also. http://idl.cs.washington.edu/
