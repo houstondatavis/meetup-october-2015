@@ -1,4 +1,6 @@
-## [Click here to download Aaron's slides](./Houston Data Viz Meetup Presentation October 2015.pdf)
+## [Click here to view Aaron's slides](./Houston Data Viz Meetup Presentation October 2015.pdf)
+
+## [Click here to download Aaron's slides](https://github.com/houstondatavis/meetup-october-2015/raw/master/Houston%20Data%20Viz%20Meetup%20Presentation%20October%202015.pdf)
 
 ## Follow-up to questions during the talk
 
