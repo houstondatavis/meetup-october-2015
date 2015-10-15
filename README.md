@@ -1,3 +1,5 @@
+## [Slides from Aaron's talk here](Houston Data Viz Meetup Presentation October 2015)
+
 ## Follow-up to questions during the talk
 
 **Q1.** What about the blind spot in the middle of your eye?
